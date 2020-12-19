@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=epaymentsapp202012161506;AccountKey=9nNjXwQfWzmXSmQNtS87z2CumaPUNVhBsX5bm9psuZDXsPbqqXW1LdHAlMYHjfBPtbE9Xw/vUI5YUuxDHms4Xg==;EndpointSuffix=core.windows.net;",
+    "AzureWebJobsSendGridApiKey": "=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",
+    "EmailRecipient": "anand.vaibhav@hotmail.com"
+  }
+}
+// Rename this file to local.settings.json
